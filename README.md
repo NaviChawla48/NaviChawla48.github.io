@@ -1,0 +1,4 @@
+# NaviChawla48.github.io
+Title: Social Media Usage and Mental Health: Can Online Habits Predict Treatment-Seeking Behavior? 
+Project Overview: Mental health has become one of the most pressing public health issues of the 21st century, and social media usage has grown explosively over the same period. But how connected are these two trends? This tutorial investigates whether social media habits — including daily usage time, platform preferences, and self-reported effects on mood and focus — can predict whether someone seeks professional mental health treatment.
+To answer this question, we combine two datasets: the OSMI Mental Health in Tech Survey (2014), which captures workplace mental health attitudes and treatment-seeking behavior among tech workers, and the Social Media & Mental Health Survey, which quantifies social media habits and their self-reported psychological effects.
